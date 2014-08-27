@@ -1,0 +1,824 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 AE91-F9EC
+D:.
+│  excelsikuli.jar
+│  readme.txt
+│  sikuli_IF.xlsx
+│  start.bat
+│  structure.txt
+│  testEngin.py
+│  
+├─bin
+│      VNC-Viewer-5.2.0-Windows-64bit.exe
+│      
+├─image
+│  ├─com
+│  │      openterminal.jpg
+│  │      password.jpg
+│  │      vncsername.jpg
+│  │      
+│  └─user
+│      └─dereck
+│              der_chineseInput.jpg
+│              der_connect.jpg
+│              der_dbpassword.jpg
+│              der_dbservice.jpg
+│              der_dbuser.jpg
+│              der_deleteOption.jpg
+│              der_dragTest.jpg
+│              der_dropTest.jpg
+│              der_hostname.jpg
+│              der_next.jpg
+│              der_port.jpg
+│              der_vncosBlack.jpg
+│              der_vncosConsole.jpg
+│              der_vncosDropat.jpg
+│              der_vncosPassword.jpg
+│              der_vncosUnlockbutton.jpg
+│              
+├─img
+│  └─dreck_soa
+├─jre
+│  │  COPYRIGHT
+│  │  LICENSE
+│  │  README.txt
+│  │  THIRDPARTYLICENSEREADME.txt
+│  │  Welcome.html
+│  │  
+│  ├─bin
+│  │  │  attach.dll
+│  │  │  awt.dll
+│  │  │  axbridge.dll
+│  │  │  dcpr.dll
+│  │  │  deploy.dll
+│  │  │  dt_shmem.dll
+│  │  │  dt_socket.dll
+│  │  │  eula.dll
+│  │  │  fontmanager.dll
+│  │  │  hprof.dll
+│  │  │  instrument.dll
+│  │  │  j2pcsc.dll
+│  │  │  j2pkcs11.dll
+│  │  │  jaas_nt.dll
+│  │  │  java-rmi.exe
+│  │  │  java.dll
+│  │  │  java.exe
+│  │  │  javacpl.cpl
+│  │  │  javacpl.exe
+│  │  │  javaw.exe
+│  │  │  javaws.exe
+│  │  │  java_crw_demo.dll
+│  │  │  jawt.dll
+│  │  │  JdbcOdbc.dll
+│  │  │  jdwp.dll
+│  │  │  jfr.dll
+│  │  │  jli.dll
+│  │  │  jp2iexp.dll
+│  │  │  jp2launcher.exe
+│  │  │  jp2native.dll
+│  │  │  jp2ssv.dll
+│  │  │  jpeg.dll
+│  │  │  jpicom.dll
+│  │  │  jpiexp.dll
+│  │  │  jpinscp.dll
+│  │  │  jpioji.dll
+│  │  │  jpishare.dll
+│  │  │  jqs.exe
+│  │  │  jsdt.dll
+│  │  │  jsound.dll
+│  │  │  jsoundds.dll
+│  │  │  kcms.dll
+│  │  │  keytool.exe
+│  │  │  kinit.exe
+│  │  │  klist.exe
+│  │  │  ktab.exe
+│  │  │  management.dll
+│  │  │  mlib_image.dll
+│  │  │  msvcr100.dll
+│  │  │  net.dll
+│  │  │  nio.dll
+│  │  │  npjpi170_04.dll
+│  │  │  npoji610.dll
+│  │  │  npt.dll
+│  │  │  orbd.exe
+│  │  │  pack200.exe
+│  │  │  policytool.exe
+│  │  │  rmi.dll
+│  │  │  rmid.exe
+│  │  │  rmiregistry.exe
+│  │  │  sawindbg.dll
+│  │  │  servertool.exe
+│  │  │  splashscreen.dll
+│  │  │  ssv.dll
+│  │  │  ssvagent.exe
+│  │  │  sunec.dll
+│  │  │  sunmscapi.dll
+│  │  │  t2k.dll
+│  │  │  tnameserv.exe
+│  │  │  unpack.dll
+│  │  │  unpack200.exe
+│  │  │  verify.dll
+│  │  │  w2k_lsa_auth.dll
+│  │  │  wsdetect.dll
+│  │  │  zip.dll
+│  │  │  
+│  │  ├─client
+│  │  │      classes.jsa
+│  │  │      jvm.dll
+│  │  │      Xusage.txt
+│  │  │      
+│  │  ├─dtplugin
+│  │  │      deployJava1.dll
+│  │  │      npdeployJava1.dll
+│  │  │      
+│  │  ├─plugin2
+│  │  │      msvcr100.dll
+│  │  │      npjp2.dll
+│  │  │      
+│  │  └─server
+│  │          jvm.dll
+│  │          Xusage.txt
+│  │          
+│  └─lib
+│      │  alt-rt.jar
+│      │  axis-1.4.jar
+│      │  calendars.properties
+│      │  charsets.jar
+│      │  classlist
+│      │  content-types.properties
+│      │  currency.data
+│      │  deploy.jar
+│      │  flavormap.properties
+│      │  fontconfig.bfc
+│      │  fontconfig.properties.src
+│      │  javaws.jar
+│      │  jce.jar
+│      │  jfr.jar
+│      │  jsse.jar
+│      │  jvm.hprof.txt
+│      │  launcher.exe
+│      │  logging.properties
+│      │  management-agent.jar
+│      │  meta-index
+│      │  net.properties
+│      │  plugin.jar
+│      │  psfont.properties.ja
+│      │  psfontj2d.properties
+│      │  resources.jar
+│      │  rt.jar
+│      │  sound.properties
+│      │  tzmappings
+│      │  
+│      ├─applet
+│      ├─cmm
+│      │      CIEXYZ.pf
+│      │      GRAY.pf
+│      │      LINEAR_RGB.pf
+│      │      PYCC.pf
+│      │      sRGB.pf
+│      │      
+│      ├─deploy
+│      │  │  ffjcext.zip
+│      │  │  messages.properties
+│      │  │  messages_de.properties
+│      │  │  messages_es.properties
+│      │  │  messages_fr.properties
+│      │  │  messages_it.properties
+│      │  │  messages_ja.properties
+│      │  │  messages_ko.properties
+│      │  │  messages_pt_BR.properties
+│      │  │  messages_sv.properties
+│      │  │  messages_zh_CN.properties
+│      │  │  messages_zh_HK.properties
+│      │  │  messages_zh_TW.properties
+│      │  │  splash.gif
+│      │  │  
+│      │  └─jqs
+│      │          jqs.conf
+│      │          jqsmessages.properties
+│      │          
+│      ├─ext
+│      │      dnsns.jar
+│      │      localedata.jar
+│      │      meta-index
+│      │      sunec.jar
+│      │      sunjce_provider.jar
+│      │      sunmscapi.jar
+│      │      sunpkcs11.jar
+│      │      zipfs.jar
+│      │      
+│      ├─fonts
+│      │      LucidaBrightDemiBold.ttf
+│      │      LucidaBrightDemiItalic.ttf
+│      │      LucidaBrightItalic.ttf
+│      │      LucidaBrightRegular.ttf
+│      │      LucidaSansDemiBold.ttf
+│      │      LucidaSansRegular.ttf
+│      │      LucidaTypewriterBold.ttf
+│      │      LucidaTypewriterRegular.ttf
+│      │      
+│      ├─i386
+│      │      jvm.cfg
+│      │      
+│      ├─images
+│      │  └─cursors
+│      │          cursors.properties
+│      │          invalid32x32.gif
+│      │          win32_CopyDrop32x32.gif
+│      │          win32_CopyNoDrop32x32.gif
+│      │          win32_LinkDrop32x32.gif
+│      │          win32_LinkNoDrop32x32.gif
+│      │          win32_MoveDrop32x32.gif
+│      │          win32_MoveNoDrop32x32.gif
+│      │          
+│      ├─management
+│      │      jmxremote.access
+│      │      jmxremote.password.template
+│      │      management.properties
+│      │      snmp.acl.template
+│      │      
+│      ├─security
+│      │      blacklist
+│      │      cacerts
+│      │      java.policy
+│      │      java.security
+│      │      javaws.policy
+│      │      local_policy.jar
+│      │      trusted.libraries
+│      │      US_export_policy.jar
+│      │      
+│      ├─servicetag
+│      │      jdk_header.png
+│      │      registration.xml
+│      │      
+│      └─zi
+│          │  CET
+│          │  CST6CDT
+│          │  EET
+│          │  EST
+│          │  EST5EDT
+│          │  GMT
+│          │  HST
+│          │  MET
+│          │  MST
+│          │  MST7MDT
+│          │  PST8PDT
+│          │  WET
+│          │  ZoneInfoMappings
+│          │  
+│          ├─Africa
+│          │      Abidjan
+│          │      Accra
+│          │      Addis_Ababa
+│          │      Algiers
+│          │      Asmara
+│          │      Bamako
+│          │      Bangui
+│          │      Banjul
+│          │      Bissau
+│          │      Blantyre
+│          │      Brazzaville
+│          │      Bujumbura
+│          │      Cairo
+│          │      Casablanca
+│          │      Ceuta
+│          │      Conakry
+│          │      Dakar
+│          │      Dar_es_Salaam
+│          │      Djibouti
+│          │      Douala
+│          │      El_Aaiun
+│          │      Freetown
+│          │      Gaborone
+│          │      Harare
+│          │      Johannesburg
+│          │      Juba
+│          │      Kampala
+│          │      Khartoum
+│          │      Kigali
+│          │      Kinshasa
+│          │      Lagos
+│          │      Libreville
+│          │      Lome
+│          │      Luanda
+│          │      Lubumbashi
+│          │      Lusaka
+│          │      Malabo
+│          │      Maputo
+│          │      Maseru
+│          │      Mbabane
+│          │      Mogadishu
+│          │      Monrovia
+│          │      Nairobi
+│          │      Ndjamena
+│          │      Niamey
+│          │      Nouakchott
+│          │      Ouagadougou
+│          │      Porto-Novo
+│          │      Sao_Tome
+│          │      Tripoli
+│          │      Tunis
+│          │      Windhoek
+│          │      
+│          ├─America
+│          │  │  Adak
+│          │  │  Anchorage
+│          │  │  Anguilla
+│          │  │  Antigua
+│          │  │  Araguaina
+│          │  │  Aruba
+│          │  │  Asuncion
+│          │  │  Atikokan
+│          │  │  Bahia
+│          │  │  Bahia_Banderas
+│          │  │  Barbados
+│          │  │  Belem
+│          │  │  Belize
+│          │  │  Blanc-Sablon
+│          │  │  Boa_Vista
+│          │  │  Bogota
+│          │  │  Boise
+│          │  │  Cambridge_Bay
+│          │  │  Campo_Grande
+│          │  │  Cancun
+│          │  │  Caracas
+│          │  │  Cayenne
+│          │  │  Cayman
+│          │  │  Chicago
+│          │  │  Chihuahua
+│          │  │  Costa_Rica
+│          │  │  Creston
+│          │  │  Cuiaba
+│          │  │  Curacao
+│          │  │  Danmarkshavn
+│          │  │  Dawson
+│          │  │  Dawson_Creek
+│          │  │  Denver
+│          │  │  Detroit
+│          │  │  Dominica
+│          │  │  Edmonton
+│          │  │  Eirunepe
+│          │  │  El_Salvador
+│          │  │  Fortaleza
+│          │  │  Glace_Bay
+│          │  │  Godthab
+│          │  │  Goose_Bay
+│          │  │  Grand_Turk
+│          │  │  Grenada
+│          │  │  Guadeloupe
+│          │  │  Guatemala
+│          │  │  Guayaquil
+│          │  │  Guyana
+│          │  │  Halifax
+│          │  │  Havana
+│          │  │  Hermosillo
+│          │  │  Inuvik
+│          │  │  Iqaluit
+│          │  │  Jamaica
+│          │  │  Juneau
+│          │  │  La_Paz
+│          │  │  Lima
+│          │  │  Los_Angeles
+│          │  │  Maceio
+│          │  │  Managua
+│          │  │  Manaus
+│          │  │  Martinique
+│          │  │  Matamoros
+│          │  │  Mazatlan
+│          │  │  Menominee
+│          │  │  Merida
+│          │  │  Metlakatla
+│          │  │  Mexico_City
+│          │  │  Miquelon
+│          │  │  Moncton
+│          │  │  Monterrey
+│          │  │  Montevideo
+│          │  │  Montreal
+│          │  │  Montserrat
+│          │  │  Nassau
+│          │  │  New_York
+│          │  │  Nipigon
+│          │  │  Nome
+│          │  │  Noronha
+│          │  │  Ojinaga
+│          │  │  Panama
+│          │  │  Pangnirtung
+│          │  │  Paramaribo
+│          │  │  Phoenix
+│          │  │  Port-au-Prince
+│          │  │  Porto_Velho
+│          │  │  Port_of_Spain
+│          │  │  Puerto_Rico
+│          │  │  Rainy_River
+│          │  │  Rankin_Inlet
+│          │  │  Recife
+│          │  │  Regina
+│          │  │  Resolute
+│          │  │  Rio_Branco
+│          │  │  Santarem
+│          │  │  Santa_Isabel
+│          │  │  Santiago
+│          │  │  Santo_Domingo
+│          │  │  Sao_Paulo
+│          │  │  Scoresbysund
+│          │  │  Sitka
+│          │  │  St_Johns
+│          │  │  St_Kitts
+│          │  │  St_Lucia
+│          │  │  St_Thomas
+│          │  │  St_Vincent
+│          │  │  Swift_Current
+│          │  │  Tegucigalpa
+│          │  │  Thule
+│          │  │  Thunder_Bay
+│          │  │  Tijuana
+│          │  │  Toronto
+│          │  │  Tortola
+│          │  │  Vancouver
+│          │  │  Whitehorse
+│          │  │  Winnipeg
+│          │  │  Yakutat
+│          │  │  Yellowknife
+│          │  │  
+│          │  ├─Argentina
+│          │  │      Buenos_Aires
+│          │  │      Catamarca
+│          │  │      Cordoba
+│          │  │      Jujuy
+│          │  │      La_Rioja
+│          │  │      Mendoza
+│          │  │      Rio_Gallegos
+│          │  │      Salta
+│          │  │      San_Juan
+│          │  │      San_Luis
+│          │  │      Tucuman
+│          │  │      Ushuaia
+│          │  │      
+│          │  ├─Indiana
+│          │  │      Indianapolis
+│          │  │      Knox
+│          │  │      Marengo
+│          │  │      Petersburg
+│          │  │      Tell_City
+│          │  │      Vevay
+│          │  │      Vincennes
+│          │  │      Winamac
+│          │  │      
+│          │  ├─Kentucky
+│          │  │      Louisville
+│          │  │      Monticello
+│          │  │      
+│          │  └─North_Dakota
+│          │          Beulah
+│          │          Center
+│          │          New_Salem
+│          │          
+│          ├─Antarctica
+│          │      Casey
+│          │      Davis
+│          │      DumontDUrville
+│          │      Macquarie
+│          │      Mawson
+│          │      McMurdo
+│          │      Palmer
+│          │      Rothera
+│          │      Syowa
+│          │      Vostok
+│          │      
+│          ├─Asia
+│          │      Aden
+│          │      Almaty
+│          │      Amman
+│          │      Anadyr
+│          │      Aqtau
+│          │      Aqtobe
+│          │      Ashgabat
+│          │      Baghdad
+│          │      Bahrain
+│          │      Baku
+│          │      Bangkok
+│          │      Beirut
+│          │      Bishkek
+│          │      Brunei
+│          │      Choibalsan
+│          │      Chongqing
+│          │      Colombo
+│          │      Damascus
+│          │      Dhaka
+│          │      Dili
+│          │      Dubai
+│          │      Dushanbe
+│          │      Gaza
+│          │      Harbin
+│          │      Hebron
+│          │      Hong_Kong
+│          │      Hovd
+│          │      Ho_Chi_Minh
+│          │      Irkutsk
+│          │      Jakarta
+│          │      Jayapura
+│          │      Jerusalem
+│          │      Kabul
+│          │      Kamchatka
+│          │      Karachi
+│          │      Kashgar
+│          │      Kathmandu
+│          │      Kolkata
+│          │      Krasnoyarsk
+│          │      Kuala_Lumpur
+│          │      Kuching
+│          │      Kuwait
+│          │      Macau
+│          │      Magadan
+│          │      Makassar
+│          │      Manila
+│          │      Muscat
+│          │      Nicosia
+│          │      Novokuznetsk
+│          │      Novosibirsk
+│          │      Omsk
+│          │      Oral
+│          │      Phnom_Penh
+│          │      Pontianak
+│          │      Pyongyang
+│          │      Qatar
+│          │      Qyzylorda
+│          │      Rangoon
+│          │      Riyadh
+│          │      Riyadh87
+│          │      Riyadh88
+│          │      Riyadh89
+│          │      Sakhalin
+│          │      Samarkand
+│          │      Seoul
+│          │      Shanghai
+│          │      Singapore
+│          │      Taipei
+│          │      Tashkent
+│          │      Tbilisi
+│          │      Tehran
+│          │      Thimphu
+│          │      Tokyo
+│          │      Ulaanbaatar
+│          │      Urumqi
+│          │      Vientiane
+│          │      Vladivostok
+│          │      Yakutsk
+│          │      Yekaterinburg
+│          │      Yerevan
+│          │      
+│          ├─Atlantic
+│          │      Azores
+│          │      Bermuda
+│          │      Canary
+│          │      Cape_Verde
+│          │      Faroe
+│          │      Madeira
+│          │      Reykjavik
+│          │      South_Georgia
+│          │      Stanley
+│          │      St_Helena
+│          │      
+│          ├─Australia
+│          │      Adelaide
+│          │      Brisbane
+│          │      Broken_Hill
+│          │      Currie
+│          │      Darwin
+│          │      Eucla
+│          │      Hobart
+│          │      Lindeman
+│          │      Lord_Howe
+│          │      Melbourne
+│          │      Perth
+│          │      Sydney
+│          │      
+│          ├─Etc
+│          │      GMT
+│          │      GMT+1
+│          │      GMT+10
+│          │      GMT+11
+│          │      GMT+12
+│          │      GMT+2
+│          │      GMT+3
+│          │      GMT+4
+│          │      GMT+5
+│          │      GMT+6
+│          │      GMT+7
+│          │      GMT+8
+│          │      GMT+9
+│          │      GMT-1
+│          │      GMT-10
+│          │      GMT-11
+│          │      GMT-12
+│          │      GMT-13
+│          │      GMT-14
+│          │      GMT-2
+│          │      GMT-3
+│          │      GMT-4
+│          │      GMT-5
+│          │      GMT-6
+│          │      GMT-7
+│          │      GMT-8
+│          │      GMT-9
+│          │      UCT
+│          │      UTC
+│          │      
+│          ├─Europe
+│          │      Amsterdam
+│          │      Andorra
+│          │      Athens
+│          │      Belgrade
+│          │      Berlin
+│          │      Brussels
+│          │      Bucharest
+│          │      Budapest
+│          │      Chisinau
+│          │      Copenhagen
+│          │      Dublin
+│          │      Gibraltar
+│          │      Helsinki
+│          │      Istanbul
+│          │      Kaliningrad
+│          │      Kiev
+│          │      Lisbon
+│          │      London
+│          │      Luxembourg
+│          │      Madrid
+│          │      Malta
+│          │      Minsk
+│          │      Monaco
+│          │      Moscow
+│          │      Oslo
+│          │      Paris
+│          │      Prague
+│          │      Riga
+│          │      Rome
+│          │      Samara
+│          │      Simferopol
+│          │      Sofia
+│          │      Stockholm
+│          │      Tallinn
+│          │      Tirane
+│          │      Uzhgorod
+│          │      Vaduz
+│          │      Vienna
+│          │      Vilnius
+│          │      Volgograd
+│          │      Warsaw
+│          │      Zaporozhye
+│          │      Zurich
+│          │      
+│          ├─Indian
+│          │      Antananarivo
+│          │      Chagos
+│          │      Christmas
+│          │      Cocos
+│          │      Comoro
+│          │      Kerguelen
+│          │      Mahe
+│          │      Maldives
+│          │      Mauritius
+│          │      Mayotte
+│          │      Reunion
+│          │      
+│          ├─Pacific
+│          │      Apia
+│          │      Auckland
+│          │      Chatham
+│          │      Chuuk
+│          │      Easter
+│          │      Efate
+│          │      Enderbury
+│          │      Fakaofo
+│          │      Fiji
+│          │      Funafuti
+│          │      Galapagos
+│          │      Gambier
+│          │      Guadalcanal
+│          │      Guam
+│          │      Honolulu
+│          │      Johnston
+│          │      Kiritimati
+│          │      Kosrae
+│          │      Kwajalein
+│          │      Majuro
+│          │      Marquesas
+│          │      Midway
+│          │      Nauru
+│          │      Niue
+│          │      Norfolk
+│          │      Noumea
+│          │      Pago_Pago
+│          │      Palau
+│          │      Pitcairn
+│          │      Pohnpei
+│          │      Port_Moresby
+│          │      Rarotonga
+│          │      Saipan
+│          │      Tahiti
+│          │      Tarawa
+│          │      Tongatapu
+│          │      Wake
+│          │      Wallis
+│          │      
+│          └─SystemV
+│                  AST4
+│                  AST4ADT
+│                  CST6
+│                  CST6CDT
+│                  EST5
+│                  EST5EDT
+│                  HST10
+│                  MST7
+│                  MST7MDT
+│                  PST8
+│                  PST8PDT
+│                  YST9
+│                  YST9YDT
+│                  
+├─lib
+│  │  axis.jar
+│  │  burlap.jar
+│  │  commons-beanutils.jar
+│  │  commons-cli-1.2.jar
+│  │  commons-codec-1.5.jar
+│  │  commons-collections.jar
+│  │  commons-configuration-1.8.jar
+│  │  commons-dbcp.jar
+│  │  commons-digester.jar
+│  │  commons-discovery.jar
+│  │  commons-lang-2.3.jar
+│  │  commons-logging-1.1.1.jar
+│  │  commons-pool.jar
+│  │  commons-validator-1.3.1.jar
+│  │  cv210.dll
+│  │  cvaux210.dll
+│  │  cxcore210.dll
+│  │  dom4j-1.6.1.jar
+│  │  forms-1.2.1.jar
+│  │  hessian-3.0.1.jar
+│  │  highgui210.dll
+│  │  hsqldb.jar
+│  │  httpasyncclient-4.0-beta1.jar
+│  │  httpclient-4.2-beta1.jar
+│  │  httpcore-4.2-beta1.jar
+│  │  httpcore-nio-4.2-beta1.jar
+│  │  ibatis-2.3.4.726.jar
+│  │  ibatis-common-2.jar
+│  │  ibatis-sqlmap-2.jar
+│  │  jaxrpc.jar
+│  │  jintellitype-1.3.6.jar
+│  │  JIntellitype.dll
+│  │  JNative.jar
+│  │  json_simple-1.1.jar
+│  │  jstl.jar
+│  │  junit-3.8.1.jar
+│  │  junit-4.11.jar
+│  │  log4j-1.2.13.jar
+│  │  log4j-1.2.15.jar
+│  │  mac_widgets.jar
+│  │  ml210.dll
+│  │  mysql-connector-java-5.1.18-bin.jar
+│  │  mysql-connector-java-5.1.19-bin.jar
+│  │  org.apache.httpcomponents.httpclient_4.2-beta1.jar
+│  │  org.apache.httpcomponents.httpcore_4.1.4.jar
+│  │  poi-3.10.1-20140818.jar
+│  │  poi-examples-3.10.1-20140818.jar
+│  │  poi-excelant-3.10.1-20140818.jar
+│  │  poi-ooxml-3.10.1-20140818.jar
+│  │  poi-ooxml-schemas-3.10.1-20140818.jar
+│  │  poi-scratchpad-3.10.1-20140818.jar
+│  │  saaj.jar
+│  │  servlet-api.jar
+│  │  sikuli-ide.jar
+│  │  sikuli-java.jar
+│  │  sikuli-script.jar
+│  │  spring-webmvc-2.5.2.jar
+│  │  spring-webmvc-struts.jar
+│  │  spring.jar
+│  │  standard.jar
+│  │  stax-api-1.0.1.jar
+│  │  struts-taglib-1.3.8.jar
+│  │  struts.jar
+│  │  swing-layout-1.0.1.jar
+│  │  swingx-core-1.6.2.jar
+│  │  VDictProxy.dll
+│  │  VisionProxy.dll
+│  │  Win32Util.dll
+│  │  wsdl4j.jar
+│  │  xmlbeans-2.6.0.jar
+│  │  
+│  ├─Microsoft.VC90.CRT
+│  │      Microsoft.VC90.CRT.manifest
+│  │      msvcm90.dll
+│  │      msvcp90.dll
+│  │      msvcr90.dll
+│  │      
+│  └─Microsoft.VC90.OPENMP
+│          Microsoft.VC90.OpenMP.manifest
+│          vcomp90.dll
+│          
+└─logs
+        sikuli.log
+        
